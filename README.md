@@ -26,14 +26,13 @@
 
 ###
 
-<p align="left">Я начинающий Frontend разработчик с активной жизненной позицией и страстью к саморазвитию.
+<p align="left">Я начинающий backend-разработчик с активной жизненной позицией и страстью к саморазвитию.
 Занимаюсь спортом, благодаря спорту, развил в себе такие качества, как упорство, умение ставить цели и достигать их, а также работать в условиях высокой конкуренции.
 
 Помимо спорта, увлекаюсь сборкой сложных системных блоков с кастомным водяным охлаждением таким как mo-ra3. Это хобби развило во мне техническую грамотность, внимание к деталям и умение находить нестандартные решения.
- С августа 2023 года по май 2025 я изучал Frontend разработку на курсах Яндекс Практикум. Сейчас в поисках работы. <br><br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br> -🏋️🥇Чемпион Санкт-петербурга по пляжному бодибилдингу 2020г.</p>
+С августа 2024 года по март 2025 я изучал backend разработку на курсах Яндекс Практикум. Сейчас в поисках работы. <br><br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br> -🏋️🥇Чемпион Санкт-петербурга по пляжному бодибилдингу 2020г.</p>
 
-###
-<h3 align="left">📕 Мои статьи</h3>
+
 
 ###
 
@@ -43,4 +42,24 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Мои скиллы::</h3>
+
+:heavy_check_mark: Знание: Golang, Linux, SQL, Bash
+  
+<a href="https://golang.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" height="50" /> </a>
+<a href="https://www.linux.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" height="50" /> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" height="50" /> </a>
+
+  
+:heavy_check_mark: Есть опыт с: Git, Docker (Docker Compose), MySQL
+  
+<a href="https://git-scm.com/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="40" /> </a>
+<a href="https://www.docker.com/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="40" /> </a>
+<a href="https://www.sql.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" height="40" /> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="40" /> </a>
+<a href="https://gitforwindows.org/" target="_blank"> <img style="margin: 10px" src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Git Bash" height="40" /> </a>
+
+
+
+
+
